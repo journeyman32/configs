@@ -5,7 +5,7 @@ ff02::1    ip6-allnodes
 ff02::2    ip6-allrouters
 # This host address
 127.0.1.1  [current computer name]
-192.168.1.101 bryanxps
+192.168.1.101 shiner
 192.168.1.102 garuda
 192.168.1.103 pimin
 192.168.1.104 pi
