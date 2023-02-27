@@ -11,6 +11,7 @@ ff02::2    ip6-allrouters
 192.168.1.104 pi
 192.168.1.105 jetson
 192.168.1.106 mac
+192.168.1.107 nvdjetson
 192.168.1.110 gartza
 192.168.1.111 popos
 192.168.1.112 grandpa
